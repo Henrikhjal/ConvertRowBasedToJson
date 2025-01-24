@@ -1,0 +1,18 @@
+P|Henrik|Hjalmarsson
+T|070-102030|08-102030
+A|Gatan 1|Nacka|11111
+F|Fredrik|1975
+T|070-203040|08-203040
+A|Gatan 2|Nacka|11212
+F|Julia|1971
+T|070-304050|08-304050
+A|Gatan 3|Nacka|11112
+P|Anders|Andersson
+T|070-405060|08-405060
+A|Gatan 4|Stockholm|12020
+F|Victoria|1974
+T|070-506070|08-506070
+A|Gatan 5|Stockholm|13030
+F|Philip|2015
+A|Gatan 6|Stockholm|13030
+
