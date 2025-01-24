@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hjalhen.ConvertRowbasedFileFormatToJson", "ConvertRowBasedToJson\hjalhen.ConvertRowbasedFileFormatToJson.csproj", "{D4B45B41-5F9C-440E-A245-AC1A0D7C0172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hjalhen.ConvertRowbasedFileFormatToJsonTests", "ConvertToJsonTests\hjalhen.ConvertRowbasedFileFormatToJsonTests.csproj", "{58C156D6-C34D-427E-88D8-B7D0D249602B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B45B41-5F9C-440E-A245-AC1A0D7C0172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B45B41-5F9C-440E-A245-AC1A0D7C0172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B45B41-5F9C-440E-A245-AC1A0D7C0172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B45B41-5F9C-440E-A245-AC1A0D7C0172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C156D6-C34D-427E-88D8-B7D0D249602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C156D6-C34D-427E-88D8-B7D0D249602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C156D6-C34D-427E-88D8-B7D0D249602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C156D6-C34D-427E-88D8-B7D0D249602B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774C4254-7E6F-4961-B55E-7D0B0D8137DB}
+	EndGlobalSection
+EndGlobal
